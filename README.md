@@ -1,0 +1,2 @@
+# projekt-gry
+projekt platformaera
